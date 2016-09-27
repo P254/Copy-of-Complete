@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ x\ y
+comment0.target=invisibleBlock(BBeanie,\ int,\ int)
+comment1.params=b
+comment1.target=void\ setStaticImage(java.awt.Image)
+comment2.params=
+comment2.target=java.awt.Rectangle\ collisionBox()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=void\ updateSprite()
+comment6.params=gr
+comment6.target=void\ paint(java.awt.Graphics)
+numComments=7

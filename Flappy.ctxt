@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a\ grid\ x\ y
+comment0.target=Flappy(BBeanie,\ Grid,\ int,\ int)
+comment1.params=hs\ hu\ hd
+comment1.target=void\ setStaticImages(java.awt.Image,\ java.awt.Image,\ java.awt.Image)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ width()
+comment4.params=gr
+comment4.target=void\ drawSprite(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ updateSprite()
+comment6.params=
+comment6.target=java.awt.Rectangle\ collisionBox()
+comment7.params=
+comment7.target=void\ changeToStand()
+comment8.params=
+comment8.target=void\ updatePosition()
+numComments=9
